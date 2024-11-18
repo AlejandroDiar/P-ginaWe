@@ -1,2 +1,2 @@
 # P-ginaWe
-una pagina web
+Mi proyecto de pagina web
